@@ -1,0 +1,13 @@
+WYMAGANIA
+1. Wymagan pakiety NuGet do poprawnego działania aplikacji:
+ - Microsoft.EntityFrameworkCore (8.0.11)
+ - Microsoft.AspNetCore.Identity.EntityFrameworkCore (8.0.11)
+ - Microsoft.EntityFrameworkCore.Tools (8.0.11)
+ - Microsoft.EntityFrameworkCore.Design (8.0.11)
+ - Microsoft.VisualStudio.Web.CodeGeneration.Design (8.0.11)
+ - Microsoft.EntityFrameworkCore.SqlServer (8.0.11)
+ - Microsoft.AspNetCore.Identity.UI (8.0.11)
+
+2. Połączenie z bazą
+  Należy podać odpowienią nazwe bazy danych w pilku appsettings.json, aby aplikacja mogła utworzyć baze danych zawierjącą wymagane składniki
+
